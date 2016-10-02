@@ -1,3 +1,7 @@
+/* 
+    3  Problem: Greatest Common Divisor
+*/
+
 using System;
 
 namespace GreastestCommonDivisor

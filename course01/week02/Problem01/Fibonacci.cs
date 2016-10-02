@@ -1,5 +1,5 @@
 /* 
-1  Problem: Small Fibonacci Number
+    1  Problem: Small Fibonacci Number
 */
 
 using System;
