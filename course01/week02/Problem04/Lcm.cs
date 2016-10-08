@@ -1,8 +1,8 @@
 using System;
 
-namespace LeastCommonMultiple
+namespace Problem04
 {
-	class Program 
+	class Lcm 
 	{
 		static void Main(string[] args)
 		{

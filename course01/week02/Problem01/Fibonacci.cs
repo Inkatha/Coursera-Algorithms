@@ -4,9 +4,9 @@
 
 using System;
 
-namespace Fibonacci
+namespace Problem01
 {
-    class Program 
+    class Fibonacci 
     {
         static void Main(string[] args) 
         {

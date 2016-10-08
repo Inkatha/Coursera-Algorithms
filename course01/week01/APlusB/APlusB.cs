@@ -2,7 +2,7 @@ using System;
 
 namespace APlusB
 {
-    class Program
+    class APlusB
     {
         static void Main(string[] args)
         {

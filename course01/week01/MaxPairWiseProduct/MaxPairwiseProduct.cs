@@ -2,7 +2,7 @@ using System;
 
 namespace MaxPairwiseProduct
 {
-  class Program 
+  class MaxPairwiseProduct 
   {
     static void Main(string[] args)
     {

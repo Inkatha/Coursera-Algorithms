@@ -4,9 +4,9 @@
 
 using System;
 
-namespace GreastestCommonDivisor
+namespace Problem03
 {
-    class Program 
+    class Gcd 
     {
         static void Main(string[] args) {
             string input = Console.ReadLine();

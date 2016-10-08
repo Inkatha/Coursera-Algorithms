@@ -2,7 +2,7 @@ using System;
 
 namespace Problem01
 {
-    class Program 
+    class Change 
     {
         static void Main(string[] args) 
         {
